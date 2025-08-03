@@ -6,7 +6,7 @@
 
 ## ✨ Streamlit
 
-## 🔥 code: 
+## 🔥 code: https://github.com/xinzhuwang-wxz/idle-universe-code/tree/main
 
 
 
