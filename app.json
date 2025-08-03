@@ -1,0 +1,28 @@
+{
+  "name": "idle-universe",
+  "description": "(G)I-DLE Universe \u667a\u80fd\u95ee\u7b54\u7cfb\u7edf",
+  "repository": "https://github.com/your-username/idle-universe",
+  "keywords": [
+    "python",
+    "streamlit",
+    "ai",
+    "chatbot",
+    "g-idle"
+  ],
+  "env": {
+    "ZHIPUAI_API_KEY": {
+      "description": "\u667a\u8c31AI API Key",
+      "required": false
+    },
+    "OPENAI_API_KEY": {
+      "description": "OpenAI API Key",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
